@@ -3,7 +3,7 @@
 Welcome to my personal bio website repository! This repository contains the source code for my personal website where I showcase my bio, projects, and more.
 
 ## 🌐 Visit My Website
-Explore my bio and projects on my [Here](adwaithshan.rf.gd)!
+Explore my bio and projects on my [Here](https://adwaithshan.rf.gd)!
 
 Feel free to use or modify these colors for your own projects!
 
