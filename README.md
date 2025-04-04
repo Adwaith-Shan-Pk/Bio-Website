@@ -1,4 +1,4 @@
-#DEPRECATED [Current Website](https://shan.is-a.dev)
+# DEPRECATED [Current Website](https://shan.is-a.dev)
 
 
 
