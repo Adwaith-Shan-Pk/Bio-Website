@@ -1,3 +1,7 @@
+#DEPRECATED [Current Website](https://shan.is-a.dev)
+
+
+
 # My Awesome Bio Website 🚀
 
 Welcome to my personal bio website repository! This repository contains the source code for my personal website where I showcase my bio, projects, and more.
